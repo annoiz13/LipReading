@@ -12,7 +12,7 @@ setup(name='lipnet',
 	install_requires=[
         'Keras==2.0.2',
         'editdistance==0.3.1',
-		'h5py==2.6.0',
+		'h5py==2.10.0',
 		'matplotlib==2.0.0',
 		'numpy==1.13.3',
 		'python-dateutil==2.6.0',
